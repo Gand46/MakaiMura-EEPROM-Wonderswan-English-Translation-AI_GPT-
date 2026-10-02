@@ -1,0 +1,5 @@
+# Captura HF20 en Mesen 2.1.1
+
+Con la ROM privada reconstruida, usar `mesen_visualization_source_v1.1.0/scripts/mesen_visual.py capture`, Mesen 2.1.1 y `source/qa_natural_arthur_index_hf20.lua`. El script pulsa START, DOWN dos veces, A para biblioteca, LEFT desde la cubierta y A para abrir el índice. Las capturas de los frames 840, 860 y 880 son PNG nativos 224×157; el reporte Lua registra el estado `0x0061`. Repetir con JP, HF19 y HF20 para la comparación. `source/qa_graphical_records_hf20.py` ensambla la hoja y comprueba confines de píxeles y cinco pantallas de regresión con las capturas incluidas.
+
+`source/qa_state_survey.lua` permite un acceso sintético independiente introduciendo `QA_STATE=353` (`0x0161`) al frame 180. El acceso sintético y la ruta normal están identificados por separado. Las pantallas vecinas sintéticas y el barrido ampliado están en `evidence/arthur_index_HF20/`. Un estado forzado puede carecer de VRAM previa, como `0x016B`; sus artefactos no sustituyen una prueba natural.

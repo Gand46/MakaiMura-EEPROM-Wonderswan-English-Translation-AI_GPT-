@@ -1,0 +1,24 @@
+{
+  "pair_checks": [
+    {
+      "state": 306,
+      "label": "0x0132 - stage selection",
+      "frame": 3480,
+      "difference_bbox": null,
+      "pixel_identical": true
+    },
+    {
+      "state": 307,
+      "label": "0x0133 - transition animation",
+      "frame": 3900,
+      "difference_bbox": null,
+      "pixel_identical": true
+    }
+  ],
+  "rom_sha256": {
+    "JP": "ac0c793b30d2de19ff6504d5a205e33f42aeeac724e7c284b48f48fbfbe53ed8",
+    "HF20": "885eb8268ad8594c1ee5e229db22b0f639da5498a22f262e0d4c0884a1401b51"
+  },
+  "method": "SYNTHETIC_STATE",
+  "scope": "state 0x0132/0x0133 surfaces only; no gameplay completion trigger"
+}

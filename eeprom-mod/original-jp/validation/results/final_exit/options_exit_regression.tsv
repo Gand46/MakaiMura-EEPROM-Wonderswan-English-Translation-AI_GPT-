@@ -1,0 +1,3 @@
+3680	OPTIONS	state=0050	cursor=00	mode=00
+3760	EXIT_ROW	state=0050	cursor=03	mode=00
+3810	AFTER_A_EXIT	state=0031	cursor=03	mode=00

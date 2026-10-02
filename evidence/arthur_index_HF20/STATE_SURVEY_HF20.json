@@ -1,0 +1,104 @@
+{
+  "sample_size": 14,
+  "states": [
+    {
+      "state": "0x0135",
+      "method": "SYNTHETIC_STATE",
+      "frame": 900,
+      "observed_state": "0x0035",
+      "jp_hf19_identical": true
+    },
+    {
+      "state": "0x0160",
+      "method": "SYNTHETIC_STATE",
+      "frame": 900,
+      "observed_state": "0x0060",
+      "jp_hf19_identical": false
+    },
+    {
+      "state": "0x0161",
+      "method": "SYNTHETIC_STATE",
+      "frame": 900,
+      "observed_state": "0x0061",
+      "jp_hf19_identical": false
+    },
+    {
+      "state": "0x0162",
+      "method": "SYNTHETIC_STATE",
+      "frame": 900,
+      "observed_state": "0x0062",
+      "jp_hf19_identical": false
+    },
+    {
+      "state": "0x0163",
+      "method": "SYNTHETIC_STATE",
+      "frame": 900,
+      "observed_state": "0x0063",
+      "jp_hf19_identical": false
+    },
+    {
+      "state": "0x0164",
+      "method": "SYNTHETIC_STATE",
+      "frame": 900,
+      "observed_state": "0x0064",
+      "jp_hf19_identical": false
+    },
+    {
+      "state": "0x0165",
+      "method": "SYNTHETIC_STATE",
+      "frame": 900,
+      "observed_state": "0x0065",
+      "jp_hf19_identical": false
+    },
+    {
+      "state": "0x0166",
+      "method": "SYNTHETIC_STATE",
+      "frame": 900,
+      "observed_state": "0x0066",
+      "jp_hf19_identical": false
+    },
+    {
+      "state": "0x0167",
+      "method": "SYNTHETIC_STATE",
+      "frame": 900,
+      "observed_state": "0x0067",
+      "jp_hf19_identical": true
+    },
+    {
+      "state": "0x0168",
+      "method": "SYNTHETIC_STATE",
+      "frame": 900,
+      "observed_state": "0x0068",
+      "jp_hf19_identical": false
+    },
+    {
+      "state": "0x0169",
+      "method": "SYNTHETIC_STATE",
+      "frame": 900,
+      "observed_state": "0x0069",
+      "jp_hf19_identical": false
+    },
+    {
+      "state": "0x016A",
+      "method": "SYNTHETIC_STATE",
+      "frame": 900,
+      "observed_state": "0x0030",
+      "jp_hf19_identical": false
+    },
+    {
+      "state": "0x016B",
+      "method": "SYNTHETIC_STATE",
+      "frame": 900,
+      "observed_state": "0x006B",
+      "jp_hf19_identical": false
+    },
+    {
+      "state": "0x0171",
+      "method": "SYNTHETIC_STATE",
+      "frame": 900,
+      "observed_state": "0x0171",
+      "jp_hf19_identical": false
+    }
+  ],
+  "finding": "0x0161 heading corrupt in HF19; 0x016B has prior-VRAM dependency under synthetic entry"
+}

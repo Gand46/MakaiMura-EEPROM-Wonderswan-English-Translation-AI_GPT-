@@ -1,0 +1,76 @@
+{
+  "method": "SYNTHETIC_STATE",
+  "state": "0x0171",
+  "injected_frame": 180,
+  "capture_frame": 900,
+  "Mesen": "2.1.1",
+  "Mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+  "rom_sha256": {
+    "JP": "ac0c793b30d2de19ff6504d5a205e33f42aeeac724e7c284b48f48fbfbe53ed8",
+    "HF16": "1be7103b2c0c5c4577a89706560115196357c8b43db35b835e184a459f68b95a",
+    "HF17": "90cc07da4db2909d47f131134564d3b1b796823f16f1d30200b17d9059f10715"
+  },
+  "captures_sha256": {
+    "JP": "a5ed2d2956816b7fe3d75a588f878b6279fbb117f4ab23826b89e1252a54aba3",
+    "HF16": "a5ed2d2956816b7fe3d75a588f878b6279fbb117f4ab23826b89e1252a54aba3",
+    "HF17": "f7622cfc4279ed380236fbd15b4b416aabbacf5bfa12f91a08d8c3c18dd28360"
+  },
+  "JP_HF16_identical": true,
+  "changed_region_boxes_xyxy": {
+    "notice": [
+      32,
+      40,
+      104,
+      104
+    ],
+    "move": [
+      8,
+      170,
+      56,
+      192
+    ],
+    "attack": [
+      80,
+      170,
+      140,
+      190
+    ],
+    "jump": [
+      64,
+      190,
+      140,
+      209
+    ]
+  },
+  "census_by_frame": {
+    "240": {
+      "notice": 2164,
+      "move": 449,
+      "attack": 521,
+      "jump": 488,
+      "outside": 0
+    },
+    "360": {
+      "notice": 2164,
+      "move": 449,
+      "attack": 521,
+      "jump": 488,
+      "outside": 0
+    },
+    "600": {
+      "notice": 2164,
+      "move": 449,
+      "attack": 521,
+      "jump": 488,
+      "outside": 0
+    },
+    "900": {
+      "notice": 2164,
+      "move": 449,
+      "attack": 521,
+      "jump": 488,
+      "outside": 0
+    }
+  },
+  "notes": "Native 157x224 captures remain unscaled. The three-way sheet is supplementary. Natural access to state 0x0171 is not yet established."
+}

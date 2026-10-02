@@ -1,0 +1,2032 @@
+{
+  "runtime_cases": 55,
+  "runtime_failed": 0,
+  "pixel_comparisons": 132,
+  "pixel_differences": 0,
+  "intentional_pause_difference_bbox": [
+    92,
+    120,
+    132,
+    128
+  ],
+  "cold_roundtrips": [
+    {
+      "boot": "cold_saved",
+      "origin": "save",
+      "native_bytes_equal": 645,
+      "eeprom_sha256": "564d85d39a1b0e48921109e933336f5020c2a3aafdb93668281d045a071c1b04"
+    },
+    {
+      "boot": "cold_erased",
+      "origin": "modal",
+      "native_bytes_equal": 645,
+      "eeprom_sha256": "0a0fb96df74526a92a6957f865061175a042c5399267c5a71cd971793397ab59"
+    },
+    {
+      "boot": "cold_legacy",
+      "origin": "legacy_saved",
+      "native_bytes_equal": 645,
+      "eeprom_sha256": "564d85d39a1b0e48921109e933336f5020c2a3aafdb93668281d045a071c1b04"
+    },
+    {
+      "boot": "cold_fresh_save",
+      "origin": "fresh_first_save",
+      "native_bytes_equal": 645,
+      "eeprom_sha256": "f35cd6cd253398db71d38ded30ad3cabf262a9360349b9b8affee97040808a7a"
+    },
+    {
+      "boot": "cold_late",
+      "origin": "late_save",
+      "native_bytes_equal": 645,
+      "eeprom_sha256": "5847459d3ac87be3a171b7a9d2a93bd63d921da784063d73cf71e2e01be40cee"
+    },
+    {
+      "boot": "cold_checkpoint",
+      "origin": "checkpoint_save",
+      "native_bytes_equal": 645,
+      "eeprom_sha256": "4560e4871e672098e0629fe5e788081d78c2779f87e828cf9d1a0bbceb13fd2a"
+    }
+  ],
+  "comparisons": [
+    {
+      "candidate": "credits_combined/capture.png.00600.png",
+      "reference": "credits_hf20/capture.png.00600.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "credits_combined/capture.png.01200.png",
+      "reference": "credits_hf20/capture.png.01200.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "credits_combined/capture.png.01800.png",
+      "reference": "credits_hf20/capture.png.01800.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "credits_combined/capture.png.02400.png",
+      "reference": "credits_hf20/capture.png.02400.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "credits_combined/capture.png.03000.png",
+      "reference": "credits_hf20/capture.png.03000.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "credits_combined/capture.png.03600.png",
+      "reference": "credits_hf20/capture.png.03600.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "credits_combined/capture.png.04200.png",
+      "reference": "credits_hf20/capture.png.04200.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "credits_combined/capture.png.04800.png",
+      "reference": "credits_hf20/capture.png.04800.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "credits_combined/capture.png.05400.png",
+      "reference": "credits_hf20/capture.png.05400.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "credits_combined/capture.png.06000.png",
+      "reference": "credits_hf20/capture.png.06000.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "credits_combined/capture.png.06600.png",
+      "reference": "credits_hf20/capture.png.06600.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "credits_combined/capture.png.07200.png",
+      "reference": "credits_hf20/capture.png.07200.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "credits_combined/capture.png.07800.png",
+      "reference": "credits_hf20/capture.png.07800.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "credits_combined/capture.png.08400.png",
+      "reference": "credits_hf20/capture.png.08400.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "credits_combined/capture.png.09000.png",
+      "reference": "credits_hf20/capture.png.09000.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "credits_combined/capture.png.09600.png",
+      "reference": "credits_hf20/capture.png.09600.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "credits_combined/capture.png.10200.png",
+      "reference": "credits_hf20/capture.png.10200.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "credits_combined/capture.png.10800.png",
+      "reference": "credits_hf20/capture.png.10800.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "credits_combined/capture.png.11400.png",
+      "reference": "credits_hf20/capture.png.11400.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "credits_combined/capture.png.12000.png",
+      "reference": "credits_hf20/capture.png.12000.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "credits_combined/capture.png.12600.png",
+      "reference": "credits_hf20/capture.png.12600.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "credits_combined/capture.png.13200.png",
+      "reference": "credits_hf20/capture.png.13200.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "credits_combined/capture.png.13800.png",
+      "reference": "credits_hf20/capture.png.13800.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "credits_combined/capture.png.14400.png",
+      "reference": "credits_hf20/capture.png.14400.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "credits_combined/capture.png.15000.png",
+      "reference": "credits_hf20/capture.png.15000.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "credits_combined/capture.png.15600.png",
+      "reference": "credits_hf20/capture.png.15600.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "credits_combined/capture.png.16200.png",
+      "reference": "credits_hf20/capture.png.16200.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "credits_combined/capture.png.16800.png",
+      "reference": "credits_hf20/capture.png.16800.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "credits_combined/capture.png.17400.png",
+      "reference": "credits_hf20/capture.png.17400.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "credits_combined/capture.png.18000.png",
+      "reference": "credits_hf20/capture.png.18000.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "credits_combined/capture.png.18600.png",
+      "reference": "credits_hf20/capture.png.18600.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "credits_combined/capture.png.19200.png",
+      "reference": "credits_hf20/capture.png.19200.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "credits_combined/capture.png.19800.png",
+      "reference": "credits_hf20/capture.png.19800.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "credits_combined/capture.png.20400.png",
+      "reference": "credits_hf20/capture.png.20400.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "credits_combined/capture.png.21000.png",
+      "reference": "credits_hf20/capture.png.21000.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "credits_combined/capture.png.21600.png",
+      "reference": "credits_hf20/capture.png.21600.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "credits_combined/capture.png.22200.png",
+      "reference": "credits_hf20/capture.png.22200.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "credits_combined/capture.png.22800.png",
+      "reference": "credits_hf20/capture.png.22800.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "credits_combined/capture.png.23400.png",
+      "reference": "credits_hf20/capture.png.23400.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "credits_combined/capture.png.24000.png",
+      "reference": "credits_hf20/capture.png.24000.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "ending_combined/capture.png.line00.png",
+      "reference": "ending_hf20/capture.png.line00.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "ending_combined/capture.png.line01.png",
+      "reference": "ending_hf20/capture.png.line01.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "ending_combined/capture.png.line02.png",
+      "reference": "ending_hf20/capture.png.line02.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "ending_combined/capture.png.line03.png",
+      "reference": "ending_hf20/capture.png.line03.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "ending_combined/capture.png.line04.png",
+      "reference": "ending_hf20/capture.png.line04.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "ending_combined/capture.png.line05.png",
+      "reference": "ending_hf20/capture.png.line05.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "ending_combined/capture.png.line06.png",
+      "reference": "ending_hf20/capture.png.line06.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "ending_combined/capture.png.line07.png",
+      "reference": "ending_hf20/capture.png.line07.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "ending_combined/capture.png.line08.png",
+      "reference": "ending_hf20/capture.png.line08.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "ending_combined/capture.png.line09.png",
+      "reference": "ending_hf20/capture.png.line09.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "ending_combined/capture.png.line10.png",
+      "reference": "ending_hf20/capture.png.line10.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "ending_combined/capture.png.line11.png",
+      "reference": "ending_hf20/capture.png.line11.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "ending_combined/capture.png.line12.png",
+      "reference": "ending_hf20/capture.png.line12.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "ending_combined/capture.png.line13.png",
+      "reference": "ending_hf20/capture.png.line13.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "ending_combined/capture.png.line14.png",
+      "reference": "ending_hf20/capture.png.line14.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "ending_combined/capture.png.line15.png",
+      "reference": "ending_hf20/capture.png.line15.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "ending_combined/capture.png.line16.png",
+      "reference": "ending_hf20/capture.png.line16.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "ending_combined/capture.png.line17.png",
+      "reference": "ending_hf20/capture.png.line17.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "ending_combined/capture.png.line18.png",
+      "reference": "ending_hf20/capture.png.line18.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "ending_combined/capture.png.line19.png",
+      "reference": "ending_hf20/capture.png.line19.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "ending_combined/capture.png.line20.png",
+      "reference": "ending_hf20/capture.png.line20.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "ending_combined/capture.png.line21.png",
+      "reference": "ending_hf20/capture.png.line21.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "ending_combined/capture.png.line22.png",
+      "reference": "ending_hf20/capture.png.line22.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "ending_combined/capture.png.line23.png",
+      "reference": "ending_hf20/capture.png.line23.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "ending_combined/capture.png.line24.png",
+      "reference": "ending_hf20/capture.png.line24.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "index_combined/capture.png.0840.png",
+      "reference": "index_hf20/capture.png.0840.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "index_combined/capture.png.0860.png",
+      "reference": "index_hf20/capture.png.0860.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "index_combined/capture.png.0880.png",
+      "reference": "index_hf20/capture.png.0880.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "index_tail_combined/capture.png.1300.png",
+      "reference": "index_tail_hf20/capture.png.1300.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "index_tail_combined/capture.png.1450.png",
+      "reference": "index_tail_hf20/capture.png.1450.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "index_tail_combined/capture.png.1550.png",
+      "reference": "index_tail_hf20/capture.png.1550.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "mode_00_combined/capture.png.3400.png",
+      "reference": "mode_00_hf20/capture.png.3400.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "mode_00_combined/capture.png.3440.png",
+      "reference": "mode_00_hf20/capture.png.3440.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "mode_00_combined/capture.png.3500.png",
+      "reference": "mode_00_hf20/capture.png.3500.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "mode_00_combined/capture.png.3600.png",
+      "reference": "mode_00_hf20/capture.png.3600.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "mode_00_combined/capture.png.3800.png",
+      "reference": "mode_00_hf20/capture.png.3800.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "mode_00_combined/capture.png.4200.png",
+      "reference": "mode_00_hf20/capture.png.4200.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "mode_0a_combined/capture.png.3400.png",
+      "reference": "mode_0a_hf20/capture.png.3400.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "mode_0a_combined/capture.png.3440.png",
+      "reference": "mode_0a_hf20/capture.png.3440.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "mode_0a_combined/capture.png.3500.png",
+      "reference": "mode_0a_hf20/capture.png.3500.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "mode_0a_combined/capture.png.3600.png",
+      "reference": "mode_0a_hf20/capture.png.3600.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "mode_0a_combined/capture.png.3800.png",
+      "reference": "mode_0a_hf20/capture.png.3800.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "mode_0a_combined/capture.png.4200.png",
+      "reference": "mode_0a_hf20/capture.png.4200.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "mode_11_combined/capture.png.3400.png",
+      "reference": "mode_11_hf20/capture.png.3400.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "mode_11_combined/capture.png.3440.png",
+      "reference": "mode_11_hf20/capture.png.3440.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "mode_11_combined/capture.png.3500.png",
+      "reference": "mode_11_hf20/capture.png.3500.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "mode_11_combined/capture.png.3600.png",
+      "reference": "mode_11_hf20/capture.png.3600.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "mode_11_combined/capture.png.3800.png",
+      "reference": "mode_11_hf20/capture.png.3800.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "mode_11_combined/capture.png.4200.png",
+      "reference": "mode_11_hf20/capture.png.4200.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "surface_0110_combined/capture.png.0240.png",
+      "reference": "surface_0110_hf20/capture.png.0240.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "surface_0110_combined/capture.png.0360.png",
+      "reference": "surface_0110_hf20/capture.png.0360.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "surface_0110_combined/capture.png.0600.png",
+      "reference": "surface_0110_hf20/capture.png.0600.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "surface_0110_combined/capture.png.0900.png",
+      "reference": "surface_0110_hf20/capture.png.0900.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "surface_0160_combined/capture.png.0240.png",
+      "reference": "surface_0160_hf20/capture.png.0240.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "surface_0160_combined/capture.png.0360.png",
+      "reference": "surface_0160_hf20/capture.png.0360.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "surface_0160_combined/capture.png.0600.png",
+      "reference": "surface_0160_hf20/capture.png.0600.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "surface_0160_combined/capture.png.0900.png",
+      "reference": "surface_0160_hf20/capture.png.0900.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "surface_0163_combined/capture.png.0240.png",
+      "reference": "surface_0163_hf20/capture.png.0240.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "surface_0163_combined/capture.png.0360.png",
+      "reference": "surface_0163_hf20/capture.png.0360.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "surface_0163_combined/capture.png.0600.png",
+      "reference": "surface_0163_hf20/capture.png.0600.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "surface_0163_combined/capture.png.0900.png",
+      "reference": "surface_0163_hf20/capture.png.0900.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "surface_0168_combined/capture.png.0240.png",
+      "reference": "surface_0168_hf20/capture.png.0240.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "surface_0168_combined/capture.png.0360.png",
+      "reference": "surface_0168_hf20/capture.png.0360.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "surface_0168_combined/capture.png.0600.png",
+      "reference": "surface_0168_hf20/capture.png.0600.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "surface_0168_combined/capture.png.0900.png",
+      "reference": "surface_0168_hf20/capture.png.0900.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "surface_0171_combined/capture.png.0240.png",
+      "reference": "surface_0171_hf20/capture.png.0240.png",
+      "native_frame_size": [
+        157,
+        224
+      ],
+      "game_box": [
+        0,
+        0,
+        144,
+        224
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "surface_0171_combined/capture.png.0360.png",
+      "reference": "surface_0171_hf20/capture.png.0360.png",
+      "native_frame_size": [
+        157,
+        224
+      ],
+      "game_box": [
+        0,
+        0,
+        144,
+        224
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "surface_0171_combined/capture.png.0600.png",
+      "reference": "surface_0171_hf20/capture.png.0600.png",
+      "native_frame_size": [
+        157,
+        224
+      ],
+      "game_box": [
+        0,
+        0,
+        144,
+        224
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "surface_0171_combined/capture.png.0900.png",
+      "reference": "surface_0171_hf20/capture.png.0900.png",
+      "native_frame_size": [
+        157,
+        224
+      ],
+      "game_box": [
+        0,
+        0,
+        144,
+        224
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "surface_0380_combined/capture.png.0240.png",
+      "reference": "surface_0380_hf20/capture.png.0240.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "surface_0380_combined/capture.png.0360.png",
+      "reference": "surface_0380_hf20/capture.png.0360.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "surface_0380_combined/capture.png.0600.png",
+      "reference": "surface_0380_hf20/capture.png.0600.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "surface_0380_combined/capture.png.0900.png",
+      "reference": "surface_0380_hf20/capture.png.0900.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "surface_03b0_combined/capture.png.0240.png",
+      "reference": "surface_03b0_hf20/capture.png.0240.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "surface_03b0_combined/capture.png.0360.png",
+      "reference": "surface_03b0_hf20/capture.png.0360.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "surface_03b0_combined/capture.png.0600.png",
+      "reference": "surface_03b0_hf20/capture.png.0600.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "surface_03b0_combined/capture.png.0900.png",
+      "reference": "surface_03b0_hf20/capture.png.0900.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "tip10_combined/frame3755.png",
+      "reference": "tip10_hf20/frame3755.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "tip10_combined/frame3800.png",
+      "reference": "tip10_hf20/frame3800.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "tip10_combined/frame3850.png",
+      "reference": "tip10_hf20/frame3850.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "controls/frame3680.png",
+      "reference": "hf20_controls/frame3680.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "controls/frame3730.png",
+      "reference": "hf20_controls/frame3730.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "controls/frame3810.png",
+      "reference": "hf20_controls/frame3810.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "controls/frame3860.png",
+      "reference": "hf20_controls/frame3860.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "controls/frame3910.png",
+      "reference": "hf20_controls/frame3910.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "controls/frame3950.png",
+      "reference": "hf20_controls/frame3950.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "controls/frame3990.png",
+      "reference": "hf20_controls/frame3990.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "controls/frame4030.png",
+      "reference": "hf20_controls/frame4030.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "modal/cancel_restored.png",
+      "reference": "modal/exit_normal.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "actual_continue_checkpoint/cold500.png",
+      "reference": "actual_continue_hf20/cold500.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "actual_continue_checkpoint/cold700.png",
+      "reference": "actual_continue_hf20/cold700.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    },
+    {
+      "candidate": "actual_continue_checkpoint/cold1400.png",
+      "reference": "actual_continue_hf20/cold1400.png",
+      "native_frame_size": [
+        224,
+        157
+      ],
+      "game_box": [
+        0,
+        0,
+        224,
+        144
+      ],
+      "changed_pixels": 0
+    }
+  ]
+}

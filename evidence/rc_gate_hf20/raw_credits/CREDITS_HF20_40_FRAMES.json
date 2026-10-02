@@ -1,0 +1,205 @@
+{
+  "access": "SYNTHETIC_STATE 0x0133 at frame 180",
+  "pairs": [
+    {
+      "frame": 600,
+      "jp_hf20_pixel_identical": true,
+      "diff_bbox": null
+    },
+    {
+      "frame": 1200,
+      "jp_hf20_pixel_identical": true,
+      "diff_bbox": null
+    },
+    {
+      "frame": 1800,
+      "jp_hf20_pixel_identical": true,
+      "diff_bbox": null
+    },
+    {
+      "frame": 2400,
+      "jp_hf20_pixel_identical": true,
+      "diff_bbox": null
+    },
+    {
+      "frame": 3000,
+      "jp_hf20_pixel_identical": true,
+      "diff_bbox": null
+    },
+    {
+      "frame": 3600,
+      "jp_hf20_pixel_identical": true,
+      "diff_bbox": null
+    },
+    {
+      "frame": 4200,
+      "jp_hf20_pixel_identical": true,
+      "diff_bbox": null
+    },
+    {
+      "frame": 4800,
+      "jp_hf20_pixel_identical": true,
+      "diff_bbox": null
+    },
+    {
+      "frame": 5400,
+      "jp_hf20_pixel_identical": true,
+      "diff_bbox": null
+    },
+    {
+      "frame": 6000,
+      "jp_hf20_pixel_identical": true,
+      "diff_bbox": null
+    },
+    {
+      "frame": 6600,
+      "jp_hf20_pixel_identical": true,
+      "diff_bbox": null
+    },
+    {
+      "frame": 7200,
+      "jp_hf20_pixel_identical": true,
+      "diff_bbox": null
+    },
+    {
+      "frame": 7800,
+      "jp_hf20_pixel_identical": true,
+      "diff_bbox": null
+    },
+    {
+      "frame": 8400,
+      "jp_hf20_pixel_identical": true,
+      "diff_bbox": null
+    },
+    {
+      "frame": 9000,
+      "jp_hf20_pixel_identical": true,
+      "diff_bbox": null
+    },
+    {
+      "frame": 9600,
+      "jp_hf20_pixel_identical": true,
+      "diff_bbox": null
+    },
+    {
+      "frame": 10200,
+      "jp_hf20_pixel_identical": true,
+      "diff_bbox": null
+    },
+    {
+      "frame": 10800,
+      "jp_hf20_pixel_identical": true,
+      "diff_bbox": null
+    },
+    {
+      "frame": 11400,
+      "jp_hf20_pixel_identical": true,
+      "diff_bbox": null
+    },
+    {
+      "frame": 12000,
+      "jp_hf20_pixel_identical": true,
+      "diff_bbox": null
+    },
+    {
+      "frame": 12600,
+      "jp_hf20_pixel_identical": true,
+      "diff_bbox": null
+    },
+    {
+      "frame": 13200,
+      "jp_hf20_pixel_identical": true,
+      "diff_bbox": null
+    },
+    {
+      "frame": 13800,
+      "jp_hf20_pixel_identical": true,
+      "diff_bbox": null
+    },
+    {
+      "frame": 14400,
+      "jp_hf20_pixel_identical": true,
+      "diff_bbox": null
+    },
+    {
+      "frame": 15000,
+      "jp_hf20_pixel_identical": true,
+      "diff_bbox": null
+    },
+    {
+      "frame": 15600,
+      "jp_hf20_pixel_identical": true,
+      "diff_bbox": null
+    },
+    {
+      "frame": 16200,
+      "jp_hf20_pixel_identical": true,
+      "diff_bbox": null
+    },
+    {
+      "frame": 16800,
+      "jp_hf20_pixel_identical": true,
+      "diff_bbox": null
+    },
+    {
+      "frame": 17400,
+      "jp_hf20_pixel_identical": true,
+      "diff_bbox": null
+    },
+    {
+      "frame": 18000,
+      "jp_hf20_pixel_identical": true,
+      "diff_bbox": null
+    },
+    {
+      "frame": 18600,
+      "jp_hf20_pixel_identical": true,
+      "diff_bbox": null
+    },
+    {
+      "frame": 19200,
+      "jp_hf20_pixel_identical": true,
+      "diff_bbox": null
+    },
+    {
+      "frame": 19800,
+      "jp_hf20_pixel_identical": true,
+      "diff_bbox": null
+    },
+    {
+      "frame": 20400,
+      "jp_hf20_pixel_identical": true,
+      "diff_bbox": null
+    },
+    {
+      "frame": 21000,
+      "jp_hf20_pixel_identical": true,
+      "diff_bbox": null
+    },
+    {
+      "frame": 21600,
+      "jp_hf20_pixel_identical": true,
+      "diff_bbox": null
+    },
+    {
+      "frame": 22200,
+      "jp_hf20_pixel_identical": true,
+      "diff_bbox": null
+    },
+    {
+      "frame": 22800,
+      "jp_hf20_pixel_identical": true,
+      "diff_bbox": null
+    },
+    {
+      "frame": 23400,
+      "jp_hf20_pixel_identical": true,
+      "diff_bbox": null
+    },
+    {
+      "frame": 24000,
+      "jp_hf20_pixel_identical": true,
+      "diff_bbox": null
+    }
+  ]
+}

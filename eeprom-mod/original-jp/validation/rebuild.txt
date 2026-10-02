@@ -1,0 +1,7 @@
+Output: /mnt/data/makai_41er2_work/reproduced.ws
+Size: 2097152
+Main shim: 850 bytes
+Aux shim: 413 bytes
+WonderSwan checksum: 0x77E3
+SHA-256: f5652123b1eee5541a4c761c4818e4872a1ca9f00ce7c106708ee7d5f7044217
+PASS: byte-identical validated Phase 4.1E-r2 ROM.

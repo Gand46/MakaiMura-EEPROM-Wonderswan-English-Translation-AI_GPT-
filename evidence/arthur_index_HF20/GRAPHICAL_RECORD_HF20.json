@@ -1,0 +1,75 @@
+{
+  "access": "SCRIPTED_NATURAL",
+  "target_state": "0x0161",
+  "emulator": "Mesen 2.1.1 Linux x64",
+  "capture_geometry": [
+    224,
+    157
+  ],
+  "bounds_convention": "left/top inclusive, right/bottom exclusive",
+  "frames": [
+    {
+      "frame": 840,
+      "hf19_hf20_diff_pixels": 401,
+      "bbox": [
+        32,
+        16,
+        80,
+        29
+      ],
+      "diff_pixels_outside_heading": 0,
+      "jp_hf19_diff_pixels": 1162
+    },
+    {
+      "frame": 860,
+      "hf19_hf20_diff_pixels": 401,
+      "bbox": [
+        32,
+        16,
+        80,
+        29
+      ],
+      "diff_pixels_outside_heading": 0,
+      "jp_hf19_diff_pixels": 1162
+    },
+    {
+      "frame": 880,
+      "hf19_hf20_diff_pixels": 401,
+      "bbox": [
+        32,
+        16,
+        80,
+        29
+      ],
+      "diff_pixels_outside_heading": 0,
+      "jp_hf19_diff_pixels": 1162
+    }
+  ],
+  "neighboring_states": [
+    {
+      "state": "0x0160",
+      "diff_pixels": 0,
+      "access": "SYNTHETIC_STATE"
+    },
+    {
+      "state": "0x0162",
+      "diff_pixels": 0,
+      "access": "SYNTHETIC_STATE"
+    },
+    {
+      "state": "0x0163",
+      "diff_pixels": 0,
+      "access": "SYNTHETIC_STATE"
+    },
+    {
+      "state": "0x0168",
+      "diff_pixels": 0,
+      "access": "SYNTHETIC_STATE"
+    },
+    {
+      "state": "0x016B",
+      "diff_pixels": 0,
+      "access": "SYNTHETIC_STATE"
+    }
+  ]
+}

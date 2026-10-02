@@ -1,0 +1,470 @@
+[
+  {
+    "injected_mode": 0,
+    "injected_state": 384,
+    "transitions": [
+      {
+        "frame": 3399,
+        "state": 128,
+        "mode": 0
+      },
+      {
+        "frame": 3400,
+        "state": 384,
+        "mode": 0
+      },
+      {
+        "frame": 3420,
+        "state": 128,
+        "mode": 0
+      },
+      {
+        "frame": 4460,
+        "state": 112,
+        "mode": 0
+      }
+    ]
+  },
+  {
+    "injected_mode": 1,
+    "injected_state": 384,
+    "transitions": [
+      {
+        "frame": 3399,
+        "state": 128,
+        "mode": 0
+      },
+      {
+        "frame": 3400,
+        "state": 384,
+        "mode": 1
+      },
+      {
+        "frame": 3420,
+        "state": 128,
+        "mode": 1
+      }
+    ]
+  },
+  {
+    "injected_mode": 2,
+    "injected_state": 384,
+    "transitions": [
+      {
+        "frame": 3399,
+        "state": 128,
+        "mode": 0
+      },
+      {
+        "frame": 3400,
+        "state": 384,
+        "mode": 2
+      },
+      {
+        "frame": 3420,
+        "state": 128,
+        "mode": 2
+      },
+      {
+        "frame": 4120,
+        "state": 112,
+        "mode": 2
+      },
+      {
+        "frame": 4520,
+        "state": 128,
+        "mode": 2
+      }
+    ]
+  },
+  {
+    "injected_mode": 3,
+    "injected_state": 384,
+    "transitions": [
+      {
+        "frame": 3399,
+        "state": 128,
+        "mode": 0
+      },
+      {
+        "frame": 3400,
+        "state": 384,
+        "mode": 3
+      },
+      {
+        "frame": 3420,
+        "state": 128,
+        "mode": 3
+      },
+      {
+        "frame": 4180,
+        "state": 112,
+        "mode": 3
+      },
+      {
+        "frame": 4580,
+        "state": 128,
+        "mode": 3
+      }
+    ]
+  },
+  {
+    "injected_mode": 4,
+    "injected_state": 384,
+    "transitions": [
+      {
+        "frame": 3399,
+        "state": 128,
+        "mode": 0
+      },
+      {
+        "frame": 3400,
+        "state": 384,
+        "mode": 4
+      },
+      {
+        "frame": 3420,
+        "state": 128,
+        "mode": 4
+      }
+    ]
+  },
+  {
+    "injected_mode": 5,
+    "injected_state": 384,
+    "transitions": [
+      {
+        "frame": 3399,
+        "state": 128,
+        "mode": 0
+      },
+      {
+        "frame": 3400,
+        "state": 384,
+        "mode": 5
+      },
+      {
+        "frame": 3420,
+        "state": 273,
+        "mode": 5
+      },
+      {
+        "frame": 3680,
+        "state": 128,
+        "mode": 6
+      }
+    ]
+  },
+  {
+    "injected_mode": 6,
+    "injected_state": 384,
+    "transitions": [
+      {
+        "frame": 3399,
+        "state": 128,
+        "mode": 0
+      },
+      {
+        "frame": 3400,
+        "state": 384,
+        "mode": 6
+      },
+      {
+        "frame": 3420,
+        "state": 128,
+        "mode": 6
+      }
+    ]
+  },
+  {
+    "injected_mode": 7,
+    "injected_state": 384,
+    "transitions": [
+      {
+        "frame": 3399,
+        "state": 128,
+        "mode": 0
+      },
+      {
+        "frame": 3400,
+        "state": 384,
+        "mode": 7
+      },
+      {
+        "frame": 3420,
+        "state": 128,
+        "mode": 7
+      },
+      {
+        "frame": 4420,
+        "state": 112,
+        "mode": 7
+      },
+      {
+        "frame": 4800,
+        "state": 128,
+        "mode": 7
+      }
+    ]
+  },
+  {
+    "injected_mode": 8,
+    "injected_state": 384,
+    "transitions": [
+      {
+        "frame": 3399,
+        "state": 128,
+        "mode": 0
+      },
+      {
+        "frame": 3400,
+        "state": 384,
+        "mode": 8
+      },
+      {
+        "frame": 3420,
+        "state": 128,
+        "mode": 8
+      }
+    ]
+  },
+  {
+    "injected_mode": 9,
+    "injected_state": 384,
+    "transitions": [
+      {
+        "frame": 3399,
+        "state": 128,
+        "mode": 0
+      },
+      {
+        "frame": 3400,
+        "state": 384,
+        "mode": 9
+      },
+      {
+        "frame": 3420,
+        "state": 128,
+        "mode": 9
+      },
+      {
+        "frame": 4020,
+        "state": 112,
+        "mode": 9
+      },
+      {
+        "frame": 4400,
+        "state": 128,
+        "mode": 9
+      }
+    ]
+  },
+  {
+    "injected_mode": 10,
+    "injected_state": 384,
+    "transitions": [
+      {
+        "frame": 3399,
+        "state": 128,
+        "mode": 0
+      },
+      {
+        "frame": 3400,
+        "state": 384,
+        "mode": 10
+      },
+      {
+        "frame": 3420,
+        "state": 128,
+        "mode": 10
+      }
+    ]
+  },
+  {
+    "injected_mode": 11,
+    "injected_state": 384,
+    "transitions": [
+      {
+        "frame": 3399,
+        "state": 128,
+        "mode": 0
+      },
+      {
+        "frame": 3400,
+        "state": 384,
+        "mode": 11
+      },
+      {
+        "frame": 3420,
+        "state": 128,
+        "mode": 11
+      },
+      {
+        "frame": 4020,
+        "state": 112,
+        "mode": 11
+      },
+      {
+        "frame": 4420,
+        "state": 128,
+        "mode": 11
+      }
+    ]
+  },
+  {
+    "injected_mode": 12,
+    "injected_state": 384,
+    "transitions": [
+      {
+        "frame": 3399,
+        "state": 128,
+        "mode": 0
+      },
+      {
+        "frame": 3400,
+        "state": 384,
+        "mode": 12
+      },
+      {
+        "frame": 3420,
+        "state": 128,
+        "mode": 12
+      }
+    ]
+  },
+  {
+    "injected_mode": 13,
+    "injected_state": 384,
+    "transitions": [
+      {
+        "frame": 3399,
+        "state": 128,
+        "mode": 0
+      },
+      {
+        "frame": 3400,
+        "state": 384,
+        "mode": 13
+      },
+      {
+        "frame": 3420,
+        "state": 128,
+        "mode": 13
+      }
+    ]
+  },
+  {
+    "injected_mode": 14,
+    "injected_state": 384,
+    "transitions": [
+      {
+        "frame": 3399,
+        "state": 128,
+        "mode": 0
+      },
+      {
+        "frame": 3400,
+        "state": 384,
+        "mode": 14
+      },
+      {
+        "frame": 3420,
+        "state": 128,
+        "mode": 14
+      },
+      {
+        "frame": 4220,
+        "state": 368,
+        "mode": 14
+      },
+      {
+        "frame": 4240,
+        "state": 112,
+        "mode": 14
+      },
+      {
+        "frame": 4620,
+        "state": 128,
+        "mode": 14
+      }
+    ]
+  },
+  {
+    "injected_mode": 15,
+    "injected_state": 384,
+    "transitions": [
+      {
+        "frame": 3399,
+        "state": 128,
+        "mode": 0
+      },
+      {
+        "frame": 3400,
+        "state": 384,
+        "mode": 15
+      },
+      {
+        "frame": 3420,
+        "state": 128,
+        "mode": 15
+      }
+    ]
+  },
+  {
+    "injected_mode": 16,
+    "injected_state": 384,
+    "transitions": [
+      {
+        "frame": 3399,
+        "state": 128,
+        "mode": 0
+      },
+      {
+        "frame": 3400,
+        "state": 384,
+        "mode": 16
+      },
+      {
+        "frame": 3420,
+        "state": 128,
+        "mode": 16
+      },
+      {
+        "frame": 4580,
+        "state": 112,
+        "mode": 16
+      }
+    ]
+  },
+  {
+    "injected_mode": 17,
+    "injected_state": 384,
+    "transitions": [
+      {
+        "frame": 3399,
+        "state": 128,
+        "mode": 0
+      },
+      {
+        "frame": 3400,
+        "state": 384,
+        "mode": 17
+      },
+      {
+        "frame": 3420,
+        "state": 128,
+        "mode": 17
+      },
+      {
+        "frame": 4300,
+        "state": 112,
+        "mode": 17
+      },
+      {
+        "frame": 4680,
+        "state": 128,
+        "mode": 17
+      }
+    ]
+  }
+]

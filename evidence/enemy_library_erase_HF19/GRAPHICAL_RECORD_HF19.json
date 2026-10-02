@@ -1,0 +1,77 @@
+{
+  "method": "SYNTHETIC_STATE",
+  "target": "0x0110",
+  "injected_frame": 180,
+  "rendered_state_at_capture": "0x0010",
+  "emulator": "Mesen 2.1.1 Linux x64",
+  "native_geometry": [
+    224,
+    157
+  ],
+  "rom_sha256": {
+    "JP": "ac0c793b30d2de19ff6504d5a205e33f42aeeac724e7c284b48f48fbfbe53ed8",
+    "HF18": "0ee826c9d1c98b3b2e02a525dd9a089a961be48e0cea5c9a2d55b8421e807c25",
+    "HF19": "a924932e2aac1f3350badb3f82fe946d716a6abd1474e4cbd3bc86214227e22b"
+  },
+  "changed_boxes_xyxy": [
+    [
+      64,
+      56,
+      160,
+      72
+    ],
+    [
+      64,
+      72,
+      168,
+      88
+    ]
+  ],
+  "frames": {
+    "240": {
+      "pixel_census": {
+        "changed": 1459,
+        "outside": 0
+      },
+      "captures_sha256": {
+        "JP": "8b1a624453b163ff02931dd96d4c49d85e2636d238090444de77922147ecdd72",
+        "HF18": "8b1a624453b163ff02931dd96d4c49d85e2636d238090444de77922147ecdd72",
+        "HF19": "51937c06b9976f8bc57a03baa907fa0506e91288b98c0961bc3beaefe06090cc"
+      }
+    },
+    "360": {
+      "pixel_census": {
+        "changed": 1459,
+        "outside": 0
+      },
+      "captures_sha256": {
+        "JP": "8b1a624453b163ff02931dd96d4c49d85e2636d238090444de77922147ecdd72",
+        "HF18": "8b1a624453b163ff02931dd96d4c49d85e2636d238090444de77922147ecdd72",
+        "HF19": "51937c06b9976f8bc57a03baa907fa0506e91288b98c0961bc3beaefe06090cc"
+      }
+    },
+    "600": {
+      "pixel_census": {
+        "changed": 1459,
+        "outside": 0
+      },
+      "captures_sha256": {
+        "JP": "8b1a624453b163ff02931dd96d4c49d85e2636d238090444de77922147ecdd72",
+        "HF18": "8b1a624453b163ff02931dd96d4c49d85e2636d238090444de77922147ecdd72",
+        "HF19": "51937c06b9976f8bc57a03baa907fa0506e91288b98c0961bc3beaefe06090cc"
+      }
+    },
+    "900": {
+      "pixel_census": {
+        "changed": 1459,
+        "outside": 0
+      },
+      "captures_sha256": {
+        "JP": "8b1a624453b163ff02931dd96d4c49d85e2636d238090444de77922147ecdd72",
+        "HF18": "8b1a624453b163ff02931dd96d4c49d85e2636d238090444de77922147ecdd72",
+        "HF19": "51937c06b9976f8bc57a03baa907fa0506e91288b98c0961bc3beaefe06090cc"
+      }
+    }
+  },
+  "note": "Mesen screenshots are native and unscaled. The three-column image is supplemental. This is not a natural route to the confirmation."
+}

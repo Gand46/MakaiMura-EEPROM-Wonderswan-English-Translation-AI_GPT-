@@ -1,0 +1,206 @@
+{
+  "method": "SYNTHETIC_STATE",
+  "injection_frame": 180,
+  "states": [
+    {
+      "target": "0x0265",
+      "observations": [
+        {
+          "frame": 240,
+          "state": 613,
+          "counter": 0
+        },
+        {
+          "frame": 360,
+          "state": 613,
+          "counter": 0
+        },
+        {
+          "frame": 600,
+          "state": 613,
+          "counter": 0
+        },
+        {
+          "frame": 900,
+          "state": 613,
+          "counter": 0
+        }
+      ]
+    },
+    {
+      "target": "0x0267",
+      "observations": [
+        {
+          "frame": 240,
+          "state": 615,
+          "counter": 0
+        },
+        {
+          "frame": 360,
+          "state": 615,
+          "counter": 0
+        },
+        {
+          "frame": 600,
+          "state": 615,
+          "counter": 0
+        },
+        {
+          "frame": 900,
+          "state": 615,
+          "counter": 0
+        }
+      ]
+    },
+    {
+      "target": "0x0280",
+      "observations": [
+        {
+          "frame": 240,
+          "state": 640,
+          "counter": 0
+        },
+        {
+          "frame": 360,
+          "state": 640,
+          "counter": 0
+        },
+        {
+          "frame": 600,
+          "state": 640,
+          "counter": 0
+        },
+        {
+          "frame": 900,
+          "state": 640,
+          "counter": 0
+        }
+      ]
+    },
+    {
+      "target": "0x02B0",
+      "observations": [
+        {
+          "frame": 240,
+          "state": 688,
+          "counter": 0
+        },
+        {
+          "frame": 360,
+          "state": 688,
+          "counter": 0
+        },
+        {
+          "frame": 600,
+          "state": 688,
+          "counter": 0
+        },
+        {
+          "frame": 900,
+          "state": 688,
+          "counter": 0
+        }
+      ]
+    },
+    {
+      "target": "0x0365",
+      "observations": [
+        {
+          "frame": 240,
+          "state": 613,
+          "counter": 0
+        },
+        {
+          "frame": 360,
+          "state": 613,
+          "counter": 0
+        },
+        {
+          "frame": 600,
+          "state": 613,
+          "counter": 0
+        },
+        {
+          "frame": 900,
+          "state": 613,
+          "counter": 0
+        }
+      ]
+    },
+    {
+      "target": "0x0367",
+      "observations": [
+        {
+          "frame": 240,
+          "state": 615,
+          "counter": 0
+        },
+        {
+          "frame": 360,
+          "state": 615,
+          "counter": 0
+        },
+        {
+          "frame": 600,
+          "state": 615,
+          "counter": 0
+        },
+        {
+          "frame": 900,
+          "state": 615,
+          "counter": 0
+        }
+      ]
+    },
+    {
+      "target": "0x0380",
+      "observations": [
+        {
+          "frame": 240,
+          "state": 640,
+          "counter": 0
+        },
+        {
+          "frame": 360,
+          "state": 640,
+          "counter": 0
+        },
+        {
+          "frame": 600,
+          "state": 640,
+          "counter": 0
+        },
+        {
+          "frame": 900,
+          "state": 640,
+          "counter": 0
+        }
+      ]
+    },
+    {
+      "target": "0x03B0",
+      "observations": [
+        {
+          "frame": 240,
+          "state": 688,
+          "counter": 0
+        },
+        {
+          "frame": 360,
+          "state": 688,
+          "counter": 0
+        },
+        {
+          "frame": 600,
+          "state": 688,
+          "counter": 0
+        },
+        {
+          "frame": 900,
+          "state": 688,
+          "counter": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "test": "options 3680",
+    "different_pixels": 0,
+    "pixels": 32256
+  },
+  {
+    "test": "options 3730",
+    "different_pixels": 0,
+    "pixels": 32256
+  },
+  {
+    "test": "options 3810",
+    "different_pixels": 0,
+    "pixels": 32256
+  },
+  {
+    "test": "options 3860",
+    "different_pixels": 0,
+    "pixels": 32256
+  },
+  {
+    "test": "options 3910",
+    "different_pixels": 0,
+    "pixels": 32256
+  },
+  {
+    "test": "options 3950",
+    "different_pixels": 0,
+    "pixels": 32256
+  },
+  {
+    "test": "options 3990",
+    "different_pixels": 0,
+    "pixels": 32256
+  },
+  {
+    "test": "options 4030",
+    "different_pixels": 0,
+    "pixels": 32256
+  },
+  {
+    "test": "cancel restores native menu",
+    "different_pixels": 0,
+    "pixels": 32256
+  },
+  {
+    "test": "tip10 3755",
+    "different_pixels": 0,
+    "pixels": 32256
+  },
+  {
+    "test": "tip10 3800",
+    "different_pixels": 0,
+    "pixels": 32256
+  },
+  {
+    "test": "tip10 3850",
+    "different_pixels": 0,
+    "pixels": 32256
+  }
+]

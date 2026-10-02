@@ -1,0 +1,16 @@
+{
+  "method": "two Mesen processes separated by exit and new launch; scripted natural UI",
+  "private_test_rom_sha256": "885eb8268ad8594c1ee5e229db22b0f639da5498a22f262e0d4c0884a1401b51",
+  "initial_deaths": "000000",
+  "after_cold_relaunch_deaths": "000003",
+  "gameover_state_at_frame_9600": "0x0035",
+  "difference_bbox_initial_vs_after": [
+    177,
+    34,
+    183,
+    125
+  ],
+  "save_sha256": "86a0564f8ee3062259f715f023e43298c3d7a4d0dfe7fff502c25d07434f8e3e",
+  "ieeprom_sha256": "4a95b4e19a3ffc25159d6840d2d9ceab8c8717c3eada91dd8f634a9c3fd15042",
+  "scope": "cold persistence of Arthur death counter through game-generated .sav; other save flags not exhaustively tested"
+}

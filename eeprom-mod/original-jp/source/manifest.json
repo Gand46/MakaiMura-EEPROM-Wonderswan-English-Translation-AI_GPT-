@@ -1,0 +1,67 @@
+{
+  "release": "Phase 4.1E-r2",
+  "source_sha256": "ac0c793b30d2de19ff6504d5a205e33f42aeeac724e7c284b48f48fbfbe53ed8",
+  "target_sha256": "f5652123b1eee5541a4c761c4818e4872a1ca9f00ce7c106708ee7d5f7044217",
+  "size": 2097152,
+  "checksum": "77E3",
+  "save_type": 32,
+  "segment_patches": 127,
+  "main_shim": {
+    "offset": "0x14FC90",
+    "size": 850
+  },
+  "options_shim": {
+    "offset": "0x15DF38",
+    "size": 413
+  },
+  "hooks": [
+    {
+      "file_offset": "0x140523",
+      "original": "e81504",
+      "patched": "e86af7",
+      "role": "boot"
+    },
+    {
+      "file_offset": "0x146E96",
+      "original": "e89e33",
+      "patched": "e8da8f",
+      "role": "pause START"
+    },
+    {
+      "file_offset": "0x146E99",
+      "original": "e81634",
+      "patched": "e89990",
+      "role": "pause UI"
+    },
+    {
+      "file_offset": "0x141039",
+      "original": "b800108ec0",
+      "patched": "ea38df0050",
+      "role": "OPTIONS input"
+    },
+    {
+      "file_offset": "0x141274",
+      "original": "e833e1",
+      "patched": "e851ed",
+      "role": "OPTIONS OAM finalization"
+    }
+  ],
+  "patches": [
+    {
+      "file": "Makaimura_Phase4_1E_r2_CUMULATIVO_ORIGINAL.bps",
+      "kind": "original -> r2",
+      "size": 2066,
+      "sha256": "76cbadf9c878f57cea71c882f17b1c457642d15ddfae11617f43f2c5d04f0d4a",
+      "source_sha256": "ac0c793b30d2de19ff6504d5a205e33f42aeeac724e7c284b48f48fbfbe53ed8",
+      "round_trip": true
+    },
+    {
+      "file": "Makaimura_Phase4_1E_a_r2_INCREMENTAL.bps",
+      "kind": "4.1E -> r2",
+      "size": 733,
+      "sha256": "da84645863d3a2134468e9be6235ba19f73eae8bc20354e2a9e8239b2278e057",
+      "source_sha256": "a0da6baf490733079c8ff7a055618ac5851bfdd2388ba6eb11042d940264a491",
+      "round_trip": true
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "glyph": "A",
+    "font_word": 672,
+    "jp_hf20_identical": true,
+    "sha256": "98b34ec90c4ed20dfc674cd1cd938b1dd62d2f25ae34d8cb26dad3e4aa8c1f97"
+  },
+  {
+    "glyph": "P",
+    "font_word": 687,
+    "jp_hf20_identical": true,
+    "sha256": "316ae76122c14cc202900eeb68459ac8d88b26debc57840ba5a8ea41d347ac5c"
+  },
+  {
+    "glyph": "R",
+    "font_word": 705,
+    "jp_hf20_identical": true,
+    "sha256": "3ed87ec2a1e24ff46dc7b97b41ea937702223cff7c4f103b787fc3933c574904"
+  },
+  {
+    "glyph": "W",
+    "font_word": 710,
+    "jp_hf20_identical": true,
+    "sha256": "3895546c40f7839aa7377e7c87132d83f78c808278539c2de17d0eb8a6cbf4f1"
+  }
+]

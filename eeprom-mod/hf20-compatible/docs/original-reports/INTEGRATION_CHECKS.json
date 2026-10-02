@@ -1,0 +1,12 @@
+{
+  "overlapping_old_mod_bytes": 547,
+  "conflicting_values": 536,
+  "first": "0x14fc90",
+  "last": "0x14ff51",
+  "negative_tests": {
+    "hf20_as_jp": "BPS source CRC mismatch",
+    "bad_rom": "BPS source CRC mismatch",
+    "truncated": "BPS patch CRC mismatch",
+    "bad_patch": "BPS patch CRC mismatch"
+  }
+}

@@ -1,0 +1,11 @@
+commands=0	3755	exit_normal	state=0050	cursor=3	mode=0	arm=1	hold=0	writes=0	diff=4
+commands=0	3800	short_start	state=0050	cursor=3	mode=0	arm=1	hold=0	writes=0	diff=4
+commands=0	3918	confirm_start_still_down	state=0050	cursor=3	mode=1	arm=0	hold=0	writes=0	diff=4
+commands=0	3940	confirm_ready	state=0050	cursor=3	mode=1	arm=1	hold=0	writes=0	diff=4
+commands=0	3965	cancel_restored	state=0050	cursor=3	mode=0	arm=1	hold=0	writes=0	diff=4
+commands=0	4010	mixed_keys_blocked	state=0050	cursor=3	mode=0	arm=1	hold=0	writes=0	diff=4
+commands=0	4100	second_confirm	state=0050	cursor=3	mode=1	arm=1	hold=0	writes=0	diff=4
+commands=96	4140	done	state=0050	cursor=3	mode=2	arm=0	hold=35	writes=192	diff=0
+commands=96	4220	after_done	state=0050	cursor=3	mode=0	arm=1	hold=0	writes=192	diff=0
+commands=96	4350	redundant_erase	state=0050	cursor=3	mode=2	arm=0	hold=34	writes=192	diff=0
+commands=96	4430	redundant_done	state=0050	cursor=3	mode=0	arm=1	hold=0	writes=192	diff=0
